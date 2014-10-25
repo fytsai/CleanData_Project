@@ -13,7 +13,7 @@ The data was provided in 2 sets, the test set and the training set.
 # Transformation done on the data:
 
 Test and training data are merged.    
-Only the mean and standard deviation of measurements are extracted.    
+Only the mean and standard deviation values are extracted.    
 For each subject and each activity, average of each variable in the extracted data is calculated, and this is the resulting data file (getDataProject.txt) for this project.    
 
 
