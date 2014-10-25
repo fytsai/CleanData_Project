@@ -14,7 +14,7 @@ The data was provided in 2 sets, the test set and the training set.
 
 Test and training data are merged.    
 Only the mean and standard deviation of measurements are extracted.    
-For each subject and each activity, average of each variable in the extracted data is calculated, and this is the resulting data file for this project.    
+For each subject and each activity, average of each variable in the extracted data is calculated, and this is the resulting data file (getDataProject.txt) for this project.    
 
 
 # Variables in the resulting data file:
@@ -156,4 +156,4 @@ Frequency domain, body acceleration signals from gyroscope, magnitude calculated
 [67] "freq_BodyBodyGyroMag_std"     
 
 Frequency domain, body acceleration signals from gyroscope derived Jerk signal, magnitude calculated using Euclidean norm, standard deviation.         
-[68] "freq_BodyBodyGyroJerkMag_std
+[68] "freq_BodyBodyGyroJerkMag_std"
